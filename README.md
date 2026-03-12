@@ -56,4 +56,6 @@ lamp-library/
 ---
 
 ## 실행영상
+https://github.com/user-attachments/assets/12644287-e725-444d-aee8-71171da33c64
+
 
